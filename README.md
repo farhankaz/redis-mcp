@@ -1,5 +1,5 @@
 # Redis MCP Server
-[![smithery badge](https://smithery.ai/badge/redis-mcp)](https://smithery.ai/server/redis-mcp)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.farhankaz/redis-mcp)](https://lightnow.ai/servers/io.github.farhankaz/redis-mcp)
 
 A Model Context Protocol (MCP) server that provides access to Redis database operations.
 
